@@ -59,3 +59,8 @@ taxes_owed(25000)
 taxes_owed(350001)
 taxes_owed(350001, true)
 
+# answer:
+# You owe $ 100.0.
+# You owe $ 3000.0.
+# You owe $ 122500.35.
+# You owe $ 112000.32.

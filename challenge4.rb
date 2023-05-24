@@ -38,3 +38,12 @@ def schedule(destinations)
 end
 
 schedule(japans)
+
+# answer:
+# The first destination is Kumamoto.
+# The next destination is Naha.
+# The next destination is Narita.
+# The next destination is Roponggi.
+# The next destination is Shiba.
+# The next destination is Shinjuku.
+# The final destination is Ueno.
